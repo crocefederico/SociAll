@@ -1,0 +1,157 @@
+body {
+        background-image: url(style/2.jpg);
+}
+.tabella {
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+}
+.shoutbox {
+    font-size: 23px;
+    height: 225px;
+    width: 888px;
+    border-radius:7px;
+    background-color: rgb(230, 230, 230);
+    resize:none;
+}
+.buttonS {
+    width: 888px;
+    height: 85px;
+    color: black;
+    font-size:71px;
+    border-radius:7px;
+    font-family: arial;
+}
+#contFB {
+        width: 25%;
+        float: left;
+        margin: 10px;
+        height: auto;
+        border-radius:5px;
+}
+#contTW {
+        width: 25%;
+        float: right;
+        margin: 10px;
+        height: auto;
+        border-radius:5px;
+}
+#contIN {
+        width: 44%;
+        float: right;
+        margin: 10px;
+        height: auto;
+        border-radius:5px;
+}
+h3{
+        color: rgb(191, 255, 255);
+        font-size:30px;
+        font-family: -moz-fixed;
+}
+
+.link {
+	font-size:20px;
+	color: teal;
+}
+.buttonI{
+	font-size:30px;
+	border-radius:5px;
+	background-color:transparent;
+	width:49%;
+}
+#index
+	{
+	font-color:white;
+	font-size:22px;
+	}
+#sociall
+	{
+	width:69%;
+	margin: 0 auto;
+	}
+#subtitle
+	{
+	width:69%;
+	margin: 0 auto;
+	}
+#box1
+	{
+	width:100%;
+	margin: auto 0;
+	}
+#page
+	{
+	width:95%;
+	}
+#webcam_img{
+	float:left;
+	width:53%;
+	
+}
+#box2 {
+	float:left;
+	width:47px;
+	
+}
+#canv {
+	float:right;
+	width:27%;
+	
+}
+#send{
+	margin: auto 0;
+	width:200px;
+}
+#photo{
+	margin: auto 0;
+}
+h4{
+	color:white;
+	font-size:17px;
+}
+.form1{
+	float:right;
+}
+.form2{
+	width:30%;
+}
+div#submitForm{
+	background:url("style/submit2.png") no-repeat scroll 0 0 transparent;
+	color:#000000;
+	width:75px;
+}
+#boxReg {
+	width:40%;
+	margin: 0 auto;
+}
+#boxReg2{
+	width:50%;
+	float:left;
+}
+#campi1{
+float:right;
+}
+#scritte1{
+float:left;
+}
+h5{
+	color:#e7cd53;
+	font-size:22px;
+}
+#boxUp {
+	width:44%;
+	margin: 0 auto;
+}
+#logout {
+float:right;
+width:100%;
+}
+.buttonL{
+	height:100%;
+	width:100%;
+}
+#title{
+width:25%;
+margin:0 auto;
+}

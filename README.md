@@ -82,11 +82,11 @@ Istruzioni su come eseguire il software
 ~$cd /home/user/Downloads
 ~$unzip Sociall-master -d .
 ~$sudo sh install.sh
-#inserire password di un utente MySql con privilegi di amministrazione
+N.B. sarà richiesto di inserire password di un utente MySql con privilegi di amministrazione
 
 I file sorgenti non realizzati da noi sono quelli localizzati in /include e in /lib.
 I file di configurazione sono layout.css, config_db.php , createdb, sociall.local.conf.
 Il resto dei file sorgenti sono stati creati appositamente per offrire il servizio. 
 
 
-La documentazione del progetto è reperibile nella cartella Doc/documentazione.pdf
+La documentazione del progetto è reperibile nella cartella doc/documentazione.pdf

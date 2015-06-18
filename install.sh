@@ -1,5 +1,7 @@
 #!bin/bash
-
+mkdir sociall/utenti
+mkdir sociall/modelli
+mkdir sociall/uploads
 #Copia della cartella di installazione
 cp -R sociall /var/www/html
 
